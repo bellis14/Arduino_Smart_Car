@@ -1,7 +1,7 @@
 # Arduino Smart Car
 
 ## Brief Overview
-The smart car application implements line tracking, obstacle avoidance, and manual drive control functionalities using infrared and ultrasonic sensors to drive the cars motors. The hardware used in this project comes from the Elegoo Smart Robot Car Kit 3.0 Plus and was purchased from them. The software written on the arduino to control the components and it's peripherals is custom written software by me. 
+The smart car application implements line tracking, obstacle avoidance, and manual drive control functionalities using infrared and ultrasonic sensors to drive the cars motors. The hardware used in this project comes from the Elegoo Smart Robot Car Kit 3.0 Plus and was purchased from them. The software written on the arduino to control the components and it's peripherals is custom written software by me. I take no credit for the hardware used in this project.  
 
 ## Operation 
 When the smart robot is powered on the robot will sit and wait for a drive mode to be selected. The infrared remote is used to switch the smart robot into one of three modes, line tracking, obstacle avoidance, and manual driving. Button "1" puts the car into manual drive, button "2" is obstacle avoidance, and button "3" line tracking. 
