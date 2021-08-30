@@ -19,6 +19,6 @@ When the smart car is placed on a solid surface in front of a circuit based trac
 The performance of the smart car could be enhanced by using one directional rangefinders, 360 degree lidar, depth sensing cameras, or additional ultrasonic sensors. The 360 degree lidar would provide the best improvement as the smart car would be used for inside environments and the 360 degree object proximity reading would provide the best feedback for mapping out home environments with the least amount of computational power. 
 
 ## Videos
-Smart car overview: https://youtu.be/IYsviR8NkQU
-Obstacle avoidance and manual drive functionalities demonstrated: https://youtu.be/zaS6iFsqof8
-Line tracking: https://youtu.be/unu8nYK1Nvs
+- Smart car overview: https://youtu.be/IYsviR8NkQU
+- Obstacle avoidance and manual drive functionalities demonstrated: https://youtu.be/zaS6iFsqof8
+- Line tracking: https://youtu.be/unu8nYK1Nvs
